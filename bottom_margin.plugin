@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=bottom_margin
+IAge=3
+Name=Bottom Margin
+Description=Set bottom margin (i.e. scroll past end)
+Authors=Hamad Al Marri <hamad.s.almarri@gmail.com>
+Copyright=Copyright (C) 2000 Hamad Al Marri
+Website=https://github.com/hamadmarri
